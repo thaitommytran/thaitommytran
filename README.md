@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Thai 👋
+- 💻 I'm a Software Developer from the DFW metroplex
+- 🎓 I studied Web Development at DevMountain
+- ⚒️ I'm currently working on mini projects
+- ⚡ Tech Stack: HTML | CSS | JavaScript | React | NodeJS | SQL
+- 💙 Hobbies: PC Gaming, Building Custom Keyboards, Music, Tennis
+
 
 <!--
 **thaitommytran/thaitommytran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
